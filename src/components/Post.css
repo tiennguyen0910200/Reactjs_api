@@ -1,0 +1,11 @@
+.post{
+    text-align: center;
+}
+.post h2{
+    color: brown;
+}
+.posts{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-gap:20px; 
+}
